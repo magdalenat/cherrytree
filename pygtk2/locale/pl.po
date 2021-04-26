@@ -2,6 +2,7 @@
 # Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Marcin Swierczynski <orneo1212@gmail.com>, 2010.
+# Magdalena A. Tkacz <magt@post.com>, 2021
 #
 msgid ""
 msgstr ""
@@ -21,7 +22,7 @@ msgstr ""
 #: /home/giuspen/Software/git_cherrytree/modules/printing.py:200
 msgid "Warning: One or More Images Were Reduced to Enter the Page"
 msgstr ""
-"Alert: Jedno lub wiele obrazków zostały zmniejszone aby pasowały do strony"
+"Alert: Jeden lub więcej obrazków zostało zmniejszonych aby pasowały do strony"
 
 #: /home/giuspen/Software/git_cherrytree/modules/pgsc_spellcheck.py:68
 msgid "Unknown"
@@ -37,11 +38,11 @@ msgstr "Dodaj \"{}\" do słownika"
 
 #: /home/giuspen/Software/git_cherrytree/modules/pgsc_spellcheck.py:454
 msgid "Ignore All"
-msgstr "Ignoruj wszystkie"
+msgstr "Ignoruj wszystko"
 
 #: /home/giuspen/Software/git_cherrytree/modules/pgsc_spellcheck.py:465
 msgid "Languages"
-msgstr "Język"
+msgstr "Języki"
 
 #: /home/giuspen/Software/git_cherrytree/modules/pgsc_spellcheck.py:476
 msgid "Suggestions"
@@ -49,7 +50,7 @@ msgstr "Sugestie"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:270
 msgid "Checking for Newer Version..."
-msgstr "Sprawdzanie czy jest nowa wersja"
+msgstr "Sprawdź, czy jest nowa wersja"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:283
 msgid "A Newer Version Is Available!"
@@ -57,7 +58,7 @@ msgstr "Nowa wersja jest dostępna"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:289
 msgid "You Are Using the Latest Version Available"
-msgstr "To jest aktualna dostępna wersja"
+msgstr "Używasz najowszej dostępnej wersji"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:291
 msgid "You Are Using a Development Version"
@@ -66,19 +67,19 @@ msgstr "Używasz wersji rozwojowej"
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:295
 msgid "Failed to Retrieve Latest Version Information - Try Again Later"
 msgstr ""
-"Nie udało się pobrać informacji o nowej wersji - Proszę spróbować pózniej"
+"Nie udało się pobrać informacji o nowej wersji. Proszę spróbować pózniej"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:328
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4028
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4658
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:5148
 msgid "No Text is Selected"
-msgstr "Żaden tekst nie jest zaznaczony"
+msgstr "Nie zaznaczono żadnego tekstu"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:828
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2555
 msgid "The new parent can't be one of his children!"
-msgstr "Nowa gałąź nadrzędna nie może być jedna z jej gałęzi podrzędnych!"
+msgstr "Nowa gałąź nadrzędna nie może być swoją gałęzią podrzędną!"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:852
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1559
