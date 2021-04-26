@@ -143,7 +143,7 @@ msgstr "Główna gałąź drzewa"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1169
 msgid "The Selected Node"
-msgstr "Zaznaczona gałąź"
+msgstr "Zaznaczony węzeł"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1290
 #: /home/giuspen/Software/git_cherrytree/modules/support.py:1853
@@ -153,20 +153,20 @@ msgstr "Wstaw znak _specjalny"
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1292
 #: /home/giuspen/Software/git_cherrytree/modules/support.py:1855
 msgid "Insert a Special Character"
-msgstr "Dodaj znak specjalny"
+msgstr "Wstaw znak specjalny"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1383
 msgid "The Document was Reloaded After External Update to CT* File"
-msgstr "Dokument został przeładowany po zewnętrznej zmiane pliku CT*"
+msgstr "Dokument został przeładowany po zewnętrznej zmianie pliku CT*"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1410
 msgid "CherryTree Hierarchical Note Taking"
-msgstr "CherryTree Strukturalny Notes"
+msgstr "CherryTree - tworzenie hierarchicznych notatek"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1723
 #, python-format
 msgid "You Have No Write Access to %s"
-msgstr "Nie masz uprawnień do zapisu dla %s"
+msgstr "Nie masz uprawnień do zapisu pliku %s"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1737
 msgid "Writing to Disk..."
@@ -186,16 +186,16 @@ msgstr "Wprowadź hasło dla %s"
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1939
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:1956
 msgid "Wrong Password"
-msgstr "Złe hasło"
+msgstr "Niepoprawne hasło"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2251
 #: /home/giuspen/Software/git_cherrytree/modules/menus.py:298
 msgid "Command Palette"
-msgstr "Paleta poleceń"
+msgstr "Zestaw poleceń"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2285
 msgid "Type To Search..."
-msgstr "Wprowadź aby wyszukać..."
+msgstr "Wpisz aby wyszukać..."
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2289
 msgid "Command Name"
@@ -211,15 +211,15 @@ msgstr "Nowa gałęź nadrzędna nie może być gałęzią przenoszoną!"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2550
 msgid "The new chosen parent is still the old parent!"
-msgstr "Wybrana gałąź jest poprzednią nadrzędną gałęzią!"
+msgstr "Nowa wybrana gałąź nadrzędna jest nadal poprzednią nadrzędną gałęzią!"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2817
 msgid "New Node Properties"
-msgstr "Właściwości nowej gałęzi"
+msgstr "Właściwości nowego węzła"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2880
 msgid "New Child Node Properties"
-msgstr "Zmień właściwości nowej podrzędnej gałęzi"
+msgstr "Właściwości nowego podrzędnego węzła"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2908
 #, python-format
@@ -228,7 +228,7 @@ msgstr "Jesteś pewien aby <b>Usunąć gałąź '%s'?</b>"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2910
 msgid "The node <b>has Children, they will be Deleted too!</b>"
-msgstr "Gałąź <b>posiada gałęzi podrzędne, one także zostaną usunięte!</b>"
+msgstr "Gałąź <b>ma gałęzi podrzędne, one także zostaną usunięte!</b>"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:2947
 msgid "Node Properties"
@@ -239,8 +239,8 @@ msgid ""
 "Leaving the Node Type Rich Text you will Lose all Formatting for This Node, "
 "Do you want to Continue?"
 msgstr ""
-"Zmiana typu gałęzi spowoduje utrate formatowania tej gałęzi, Czy chcesz "
-"kontynułować?"
+"Zmiana typu gałęzi spowoduje utratœ formatowań w tej gałęzi, Czy chcesz "
+"kontynuować?"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3519
 msgid "Bold"
@@ -248,7 +248,7 @@ msgstr "Pogrubienie"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3521
 msgid "Use Selected Color"
-msgstr "Użyj zaznaczonego koloru"
+msgstr "Użyj wybranego koloru"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3533
 #: /home/giuspen/Software/git_cherrytree/modules/config.py:1552
@@ -259,7 +259,7 @@ msgstr "Użyj wybranej ikony"
 #: /home/giuspen/Software/git_cherrytree/modules/tablez.py:322
 #: /home/giuspen/Software/git_cherrytree/modules/imports.py:2757
 msgid "click me"
-msgstr "Wciśnij mnie"
+msgstr "Kliknij"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3551
 #: /home/giuspen/Software/git_cherrytree/modules/findreplace.py:920
@@ -271,7 +271,7 @@ msgstr "Nazwa gałęzi"
 #: /home/giuspen/Software/git_cherrytree/modules/config.py:1706
 #: /home/giuspen/Software/git_cherrytree/modules/config.py:2412
 msgid "Rich Text"
-msgstr "Formatowanie"
+msgstr "Tekst sformatowany"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3556
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:5086
@@ -302,11 +302,11 @@ msgstr "Tylko do odczytu"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3629
 msgid "Choose Existing Tag"
-msgstr "Wybierz istniejącego znacznika"
+msgstr "Wybierz istniejący znacznik"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3629
 msgid "Tag Name"
-msgstr "Nazwa tagu"
+msgstr "Nazwa znacznika"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3656
 #: /home/giuspen/Software/git_cherrytree/modules/config.py:1664
@@ -315,19 +315,19 @@ msgstr "Wybierz ikonę gałęzi"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3687
 msgid "The Size of the Toolbar Icons is already at the Maximum Value"
-msgstr "Rozmiar paska narzędziowego jest już największy"
+msgstr "Pasek narzędzi nie może być już większy"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3695
 msgid "The Size of the Toolbar Icons is already at the Minimum Value"
-msgstr "Rozmiar paska narzędziowego jest już najmniejszy"
+msgstr "Nie można bardziej zmniejszyć paska narzędzi"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3790
 msgid "Edit Anchor"
-msgstr "Zmień Kotwice"
+msgstr "Edytuj Kotwice"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3793
 msgid "Insert Anchor"
-msgstr "Dod_aj Kotwice"
+msgstr "Wstaw kotwicę"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3815
 msgid "No CodeBox is Selected"
@@ -350,16 +350,16 @@ msgstr "Czy chcesz wykonać kod?"
 msgid ""
 "Install the package 'xterm' or configure a different terminal in the "
 "Preferences Dialog"
-msgstr "zainstaluj pakiet 'xterm' lub ustaw inny terminal w ustawieniach"
+msgstr "zainstaluj pakiet 'xterm' lub ustaw inny terminal w ustawieniach okna dialogowego 'Preferencje'"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3859
 #, python-format
 msgid "The Maximum Size for Embedded Files is %s MB"
-msgstr "Maksymalny rozmiar dla dołączonego pliku wynosi %s MB"
+msgstr "Maksymalny rozmiar dla dołączanego pliku wynosi %s MB"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3922
 msgid "Cannot Edit Embedded File in Read Only Node"
-msgstr "Nie można edytować dołączonego pliku w gałęzi tylko do odczytu"
+msgstr "Nie można edytować dołączonego pliku w gałęzi 'tylko do odczytu'"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3936
 msgid "Embedded File Automatically Updated:"
@@ -367,11 +367,11 @@ msgstr "Dołączone pliki automatycznie zaktualizowane:"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:3985
 msgid "Not Any H1, H2 or H3 Formatting Found"
-msgstr "Nie znaleziono żadnego H1, H2 lub H3"
+msgstr "Nie znaleziono żadnego formatowania H1, H2 lub H3"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4005
 msgid "This Feature is Available Only in Rich Text Nodes"
-msgstr "Ta funkcja nie jest dostępna w gałęzi z formatowaniem"
+msgstr "Ta funkcja jest dostępna tylko w gałęzi z formatowaniem"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4007
 msgid "This Feature is Not Available in Automatic Syntax Highlighting Nodes"
@@ -398,47 +398,47 @@ msgstr "Skrócone informacje o drzewie"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4061
 msgid "Number of Rich Text Nodes"
-msgstr "Ilość gałęzi z formatowaniem"
+msgstr "Liczba gałęzi z formatowaniem"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4064
 msgid "Number of Plain Text Nodes"
-msgstr "Ilość tekstowych gałęzi"
+msgstr "Liczba gałęzi tekstowych"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4067
 msgid "Number of Code Nodes"
-msgstr "Ilość gałęzi z kodem"
+msgstr "Liczba gałęzi z kodem"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4070
 msgid "Number of Images"
-msgstr "Ilość obrazków"
+msgstr "Liczba obrazków"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4073
 msgid "Number of Embedded Files"
-msgstr "Ilość załączonych plików"
+msgstr "Liczba dołączonych plików"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4076
 msgid "Number of Tables"
-msgstr "Ilość tabel"
+msgstr "Liczba tabel"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4079
 msgid "Number of CodeBoxes"
-msgstr "Ilość gałęzi z polem kodu"
+msgstr "Liczba gałęzi z polem kodu"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4082
 msgid "Number of Anchors"
-msgstr "Ilość kotwic"
+msgstr "Liczba kotwic"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4170
 msgid "Image Format Not Recognized"
-msgstr "Format pliku nie rozpoznany"
+msgstr "Format pliku obrazu nie został rozpoznany"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4195
 msgid "Image Properties"
-msgstr "Właściwości obrazka"
+msgstr "Właściwości obrazu"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4276
 msgid "PNG Image"
-msgstr "Obrazek PNG"
+msgstr "Obraz PNG"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4282
 #, python-format
@@ -451,30 +451,30 @@ msgstr "Linie przekreślone"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4531
 msgid "No Previous Text Format Was Performed During This Session"
-msgstr "Nie wykonano żadnego formatowania w tej sesji"
+msgstr "Nie dokonano żadnego formatowania w tej sesji"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4619
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4686
 msgid "Insert/Edit Link"
-msgstr "Dodaj/Zmień Link"
+msgstr "Dodaj/Edytuj łącze"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4664
 msgid "Link Name"
-msgstr "Nazwa linku"
+msgstr "Nazwa łącza"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4676
 msgid "The Cursor is Not into a Paragraph"
-msgstr "Kursor nie jest w paragrafie"
+msgstr "Kursor nie jest ustawiony w paragrafie"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4904
 #, python-format
 msgid "The File Link '%s' is Not Valid"
-msgstr "Link do pliku '%s' nie jest prawidłowy"
+msgstr "Łącze do pliku '%s' nie jest prawidłowe"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4913
 #, python-format
 msgid "The Folder Link '%s' is Not Valid"
-msgstr "Link do folderu '%s' nie jest prawidłowy"
+msgstr "Łącze do katalogu '%s' nie jest prawidłowe"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4922
 #: /home/giuspen/Software/git_cherrytree/modules/findreplace.py:960
@@ -485,7 +485,7 @@ msgstr "Link prowadzi do gałęzi która już nie istnieje (Id = %s)"
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:4935
 #, python-format
 msgid "No anchor named '%s' found"
-msgstr "Brak kotwicy o nazwie '%s' "
+msgstr "Nie znaleziono kotwicy '%s' "
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:5084
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:5088
@@ -498,7 +498,7 @@ msgstr ": "
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:5088
 msgid "Tags"
-msgstr "Tagi"
+msgstr "Znaczniki"
 
 #: /home/giuspen/Software/git_cherrytree/modules/core.py:5090
 #: /home/giuspen/Software/git_cherrytree/modules/config.py:1035
